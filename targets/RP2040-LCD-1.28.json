@@ -1,0 +1,11 @@
+{
+    "inherits": [
+        "rp2040"
+    ],
+    "build-tags": ["RP2040-LCD-1.28"],
+    "serial-port": ["2e8a:000A"],
+    "linkerscript": "targets/RP2040-LCD-1.28.ld",
+    "extra-files": [
+        "targets/RP2040-LCD-1.28-boot-stage2.S"
+    ]
+}

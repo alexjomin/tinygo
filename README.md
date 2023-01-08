@@ -106,6 +106,7 @@ The following 92 microcontroller boards are currently supported:
 * [Nordic Semiconductor PCA10040](https://www.nordicsemi.com/eng/Products/Bluetooth-low-energy/nRF52-DK)
 * [Nordic Semiconductor PCA10056](https://www.nordicsemi.com/Software-and-Tools/Development-Kits/nRF52840-DK)
 * [Nordic Semiconductor pca10059](https://www.nordicsemi.com/Software-and-tools/Development-Kits/nRF52840-Dongle)
+* [RP2040-LCD-1.28](https://www.waveshare.com/wiki/RP2040-LCD-1.28)
 * [Particle Argon](https://docs.particle.io/datasheets/wi-fi/argon-datasheet/)
 * [Particle Boron](https://docs.particle.io/datasheets/cellular/boron-datasheet/)
 * [Particle Xenon](https://docs.particle.io/datasheets/discontinued/xenon-datasheet/)
